@@ -1,0 +1,149 @@
+Botão de busca google
+Permite acessar qualquer tipo de assunto com facilidade
+
+Código em JavaScript: 
+
+element.style {
+}
+<style>
+:-webkit-any(input, ntp-realbox-icon, #voiceSearchButton) {
+    z-index: 100;
+}
+<style>
+input {
+    background-color: #fdf9f9;
+    border: none;
+    border-radius: var(--ntp-realbox-border-radius);
+    color: var(--search-box-text);
+    font-family: inherit;
+    font-size: inherit;
+    height: 100%;
+    outline: none;
+    padding-inline-end: 44px;
+    padding-inline-start: 52px;
+    position: relative;
+    width: 100%;
+}
+user agent stylesheet
+input[type="search" i] {
+    appearance: auto;
+    box-sizing: border-box;
+    padding: 1px 2px;
+    
+    Espaço para inserir email e senha do facebook:
+    
+    element.style {
+}
+#facebook ._-kb button, #facebook ._-kb input, #facebook ._-kb label, #facebook ._-kb select, #facebook ._-kb td, #facebook ._-kb textarea {
+    font-family: inherit;
+}
+._8icy ._6lux ._6luy, ._9aha ._6lux ._6luy {
+    border-radius: 6px;
+}
+._8icy ._6lux ._6luy {
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+}
+._6lux ._6luy {
+    font-size: 14px;
+    padding: 5px 8px;
+    width: 284px;
+}
+html ._55r1 {
+    background: #FFFFFF url(/rsrc.php/v3/yU/r/O7nelmd9XSI.png) repeat-x;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    height: 22px;
+    line-height: 16px;
+    padding: 0 8px;
+    vertical-align: middle;
+}
+.inputtext, .inputpassword {
+    padding-bottom: 4px;
+}
+textarea, .inputtext, .inputpassword {
+    -webkit-appearance: none;
+    border: 1px solid #ccd0d5;
+    border-radius: 0;
+    margin: 0;
+    padding: 3px;
+}
+body, button, input, label, select, td, textarea {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+input, select, textarea {
+    background-color: #fff;
+    color: #1c1e21;
+}
+user agent stylesheet
+input[type="text" i] {
+    padding: 1px 2px;
+}
+user agent stylesheet
+input {
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+#facebook ._-kb div {
+    font-family: inherit;
+}
+._8icy ._6lux {
+    font-size: 17px;
+    width: 364px;
+}
+._6lux {
+    display: inline-block;
+    font-size: 14px;
+    margin: auto;
+    padding: 6px 0;
+    width: 302px;
+}
+._52jv {
+    text-align: center;
+}
+._4bl7, ._4bl9 {
+    word-wrap: break-word;
+}
+body {
+    background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed;
+}
+    
+    
